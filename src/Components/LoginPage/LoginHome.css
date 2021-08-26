@@ -1,0 +1,73 @@
+body {
+    background-color: #FAFAFA;
+}
+.main_container{
+    display:flex;
+}
+
+.main_content{
+    display:flex;
+    margin-top: 100px;;
+}
+.fblogo{
+
+    width:50px;
+    margin-left: 20px;
+
+}
+.text{
+
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.logincard_container{
+    width: 350px;
+    height:350px;
+    padding-bottom: 25px;
+    border: 1px solid #DBDBDB;
+    margin-top: 35px;
+    text-align: center;
+    background-color: white;
+}
+
+.login_input{
+   
+    width:258px;
+    height: 36px;
+    margin:5px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.login_button{
+
+    width:270px;
+    height: 36px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+    border:1px solid #0395F6;
+    background-color: #0395F6;
+    color: white;
+}
+
+.forget_Text{
+    color: rgba(var(--fe0,0,55,107),1);
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 12px;
+    text-align: center;
+}
+
+.login_createnew{
+    margin-top: 25px;
+    height:56px;
+    width: 350px;
+    background-color: white;
+    border: 1px solid #DBDBDB;
+    text-align: center;
+}

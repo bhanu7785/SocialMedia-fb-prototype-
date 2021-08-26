@@ -1,0 +1,28 @@
+.statusbar_container{
+    display:flex;
+    width:600px;
+    overflow-x: scroll;
+}
+
+.statusbar_status{
+    height:200px;
+    width:110px;
+    margin: 20px 5px;
+    border-radius: 15px;
+}
+
+.upload_icon{
+    margin-top: 70px;
+    margin-left: 30px;
+
+}
+
+.statusbar_status >input{
+    display: none;
+}
+
+.status_img{
+    height:200px;
+    width:110px;
+    border-radius: 5px;
+}
